@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Grade">
+        <attr name="number" format="integer"></attr>
+        <attr name="selectValue" format="integer"></attr>
+        <attr name="selectImage" format="reference"></attr>
+        <attr name="noSelectImage" format="reference"></attr>
+        <attr name="isOnclick" format="boolean"></attr>
+    </declare-styleable>
+</resources>
